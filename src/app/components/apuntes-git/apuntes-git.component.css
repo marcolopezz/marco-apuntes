@@ -1,0 +1,8 @@
+.list-element {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-description{
+    font-weight: bold;
+}
